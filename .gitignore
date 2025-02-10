@@ -1,0 +1,14 @@
+#  STS
+.idea/
+.classpath
+.project
+.settings/
+
+# Build
+target/
+
+# OS 
+.DS_Store
+Thumbs.db
+
+
